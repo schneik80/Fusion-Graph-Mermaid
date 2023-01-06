@@ -8,7 +8,7 @@ Example Assembly:
 
 Graph created from shown example:
 
-```Mermaid
+```mermaid
     graph LR;
     CenterDiffBracketASSYv30-->CenterDiffMountv2:1;
     CenterDiffBracketASSYv30-->CenterDiffTopPlatev5:1;
