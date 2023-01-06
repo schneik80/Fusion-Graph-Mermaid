@@ -1,0 +1,450 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1114pt" height="1775pt" viewBox="0.00 0.00 1114 1775">
+<g id="graph0" class="graph" transform="translate(-47.273864283237174,1671.8932734507364) scale(0.9004028810325704)" data-name="">
+<polygon fill="white" stroke="none" points="-4,4 -4,-1771 1110,-1771 1110,4 -4,4"/>
+<!-- Center Diff Bracket ASSY -->
+<g id="node1" class="node" pointer-events="visible" data-name="Center Diff Bracket ASSY">
+
+<ellipse fill="none" stroke="black" cx="457.16" cy="-821.05" rx="114.65" ry="18"/>
+<text text-anchor="middle" x="457.16" y="-816.85" font-family="Times,serif" font-size="14.00">Center Diff Bracket ASSY</text>
+</g>
+<!-- Center Diff Mount -->
+<g id="node2" class="node" pointer-events="visible" data-name="Center Diff Mount">
+
+<ellipse fill="none" stroke="black" cx="685.53" cy="-1018.76" rx="83.4" ry="18"/>
+<text text-anchor="middle" x="685.53" y="-1014.56" font-family="Times,serif" font-size="14.00">Center Diff Mount</text>
+</g>
+<!-- Center Diff Bracket ASSY&#45;&gt;Center Diff Mount -->
+<g id="edge1" class="edge" data-name="Center Diff Bracket ASSY-&gt;Center Diff Mount">
+
+<path fill="none" stroke="black" d="M477.83,-838.94C518.68,-874.3 609.82,-953.21 656.6,-993.72"/>
+<polygon fill="black" stroke="black" points="654.08,-996.16 663.93,-1000.06 658.66,-990.87 654.08,-996.16"/>
+</g>
+<!-- Center Diff Top Plate -->
+<g id="node3" class="node" pointer-events="visible" data-name="Center Diff Top Plate">
+
+<ellipse fill="none" stroke="black" cx="200.82" cy="-1022.15" rx="94.95" ry="18"/>
+<text text-anchor="middle" x="200.82" y="-1017.95" font-family="Times,serif" font-size="14.00">Center Diff Top Plate</text>
+</g>
+<!-- Center Diff Bracket ASSY&#45;&gt;Center Diff Top Plate -->
+<g id="edge2" class="edge" data-name="Center Diff Bracket ASSY-&gt;Center Diff Top Plate">
+
+<path fill="none" stroke="black" d="M434.41,-838.89C388.52,-874.89 284.78,-956.28 232.38,-997.39"/>
+<polygon fill="black" stroke="black" points="230.41,-994.48 224.71,-1003.41 234.74,-999.99 230.41,-994.48"/>
+</g>
+<!-- Center Diff Motor Mount -->
+<g id="node4" class="node" pointer-events="visible" data-name="Center Diff Motor Mount">
+
+<ellipse fill="none" stroke="black" cx="109.76" cy="-781.98" rx="110.01" ry="18"/>
+<text text-anchor="middle" x="109.76" y="-777.78" font-family="Times,serif" font-size="14.00">Center Diff Motor Mount</text>
+</g>
+<!-- Center Diff Bracket ASSY&#45;&gt;Center Diff Motor Mount -->
+<g id="edge3" class="edge" data-name="Center Diff Bracket ASSY-&gt;Center Diff Motor Mount">
+
+<path fill="none" stroke="black" d="M363.15,-810.47C316.64,-805.24 260.41,-798.92 212.74,-793.56"/>
+<polygon fill="black" stroke="black" points="213.28,-790.1 202.95,-792.46 212.5,-797.06 213.28,-790.1"/>
+</g>
+<!-- Center Slipper ASSY -->
+<g id="node5" class="node" pointer-events="visible" data-name="Center Slipper ASSY">
+
+<ellipse fill="none" stroke="black" cx="614.24" cy="-339.82" rx="94.38" ry="18"/>
+<text text-anchor="middle" x="614.24" y="-335.62" font-family="Times,serif" font-size="14.00">Center Slipper ASSY</text>
+</g>
+<!-- Center Diff Bracket ASSY&#45;&gt;Center Slipper ASSY -->
+<g id="edge4" class="edge" data-name="Center Diff Bracket ASSY-&gt;Center Slipper ASSY">
+
+<path fill="none" stroke="black" d="M463.13,-802.77C486.97,-729.74 575.49,-458.53 604.77,-368.83"/>
+<polygon fill="black" stroke="black" points="608.03,-370.14 607.8,-359.55 601.37,-367.97 608.03,-370.14"/>
+</g>
+<!-- Outdrive Rig -->
+<g id="node20" class="node" pointer-events="visible" data-name="Outdrive Rig">
+
+<ellipse fill="none" stroke="black" cx="438.45" cy="-882.19" rx="61.96" ry="18"/>
+<text text-anchor="middle" x="438.45" y="-877.99" font-family="Times,serif" font-size="14.00">Outdrive Rig</text>
+</g>
+<!-- Center Diff Bracket ASSY&#45;&gt;Outdrive Rig -->
+<g id="edge23" class="edge" data-name="Center Diff Bracket ASSY-&gt;Outdrive Rig">
+
+<path fill="none" stroke="black" d="M444.94,-839.2C443.3,-843.45 441.77,-848.08 440.45,-852.68"/>
+<polygon fill="black" stroke="black" points="437.07,-851.8 438.08,-862.35 443.86,-853.47 437.07,-851.8"/>
+</g>
+<!-- Center Diff Bracket ASSY&#45;&gt;Outdrive Rig -->
+<g id="edge24" class="edge" data-name="Center Diff Bracket ASSY-&gt;Outdrive Rig">
+
+<path fill="none" stroke="black" d="M457.87,-839.54C456.98,-843.96 455.73,-848.78 454.28,-853.54"/>
+<polygon fill="black" stroke="black" points="451,-852.3 451.06,-862.89 457.62,-854.58 451,-852.3"/>
+</g>
+<!-- ISO 7380 &#45; M3 x 8 -->
+<g id="node21" class="node" pointer-events="visible" data-name="ISO 7380 - M3 x 8">
+
+<ellipse fill="none" stroke="black" cx="194.46" cy="-676.26" rx="84.04" ry="18"/>
+<text text-anchor="middle" x="194.46" y="-672.06" font-family="Times,serif" font-size="14.00">ISO 7380 - M3 x 8</text>
+</g>
+<!-- Center Diff Bracket ASSY&#45;&gt;ISO 7380 &#45; M3 x 8 -->
+<g id="edge25" class="edge" data-name="Center Diff Bracket ASSY-&gt;ISO 7380 - M3 x 8">
+
+<path fill="none" stroke="black" d="M445.78,-802.83C414.16,-773.87 325.91,-722.62 262.81,-694.16"/>
+<polygon fill="black" stroke="black" points="264.47,-691.06 253.91,-690.23 261.65,-697.47 264.47,-691.06"/>
+</g>
+<!-- Center Diff Bracket ASSY&#45;&gt;ISO 7380 &#45; M3 x 8 -->
+<g id="edge26" class="edge" data-name="Center Diff Bracket ASSY-&gt;ISO 7380 - M3 x 8">
+
+<path fill="none" stroke="black" d="M394.3,-805.59C335.82,-779.86 252.48,-732.37 214.39,-701.76"/>
+<polygon fill="black" stroke="black" points="216.76,-699.18 206.88,-695.35 212.22,-704.51 216.76,-699.18"/>
+</g>
+<!-- Center Diff Bracket ASSY&#45;&gt;ISO 7380 &#45; M3 x 8 -->
+<g id="edge27" class="edge" data-name="Center Diff Bracket ASSY-&gt;ISO 7380 - M3 x 8">
+
+<path fill="none" stroke="black" d="M415.72,-803.88C363.57,-777.92 275.12,-729.1 227.36,-699.84"/>
+<polygon fill="black" stroke="black" points="229.44,-697.02 219.1,-694.71 225.74,-702.96 229.44,-697.02"/>
+</g>
+<!-- Center Diff Bracket ASSY&#45;&gt;ISO 7380 &#45; M3 x 8 -->
+<g id="edge28" class="edge" data-name="Center Diff Bracket ASSY-&gt;ISO 7380 - M3 x 8">
+
+<path fill="none" stroke="black" d="M433.53,-803.21C390.96,-776.37 300.7,-726.2 244.06,-697.52"/>
+<polygon fill="black" stroke="black" points="245.75,-694.46 235.24,-693.1 242.62,-700.71 245.75,-694.46"/>
+</g>
+<!-- Motor -->
+<g id="node22" class="node" pointer-events="visible" data-name="Motor">
+
+<ellipse fill="none" stroke="black" cx="452.83" cy="-1232.57" rx="35.36" ry="18"/>
+<text text-anchor="middle" x="452.83" y="-1228.37" font-family="Times,serif" font-size="14.00">Motor</text>
+</g>
+<!-- Center Diff Bracket ASSY&#45;&gt;Motor -->
+<g id="edge29" class="edge" data-name="Center Diff Bracket ASSY-&gt;Motor">
+
+<path fill="none" stroke="black" d="M456.97,-839.53C456.28,-904.54 453.98,-1123.04 453.14,-1202.97"/>
+<polygon fill="black" stroke="black" points="449.65,-1202.59 453.04,-1212.63 456.65,-1202.66 449.65,-1202.59"/>
+</g>
+<!-- ISO 7089 &#45; 3 &#45; 140 HV(1) -->
+<g id="node31" class="node" pointer-events="visible" data-name="ISO 7089 - 3 - 140 HV(1)">
+
+<ellipse fill="none" stroke="black" cx="114.9" cy="-913.56" rx="111.2" ry="18"/>
+<text text-anchor="middle" x="114.9" y="-909.36" font-family="Times,serif" font-size="14.00">ISO 7089 - 3 - 140 HV(1)</text>
+</g>
+<!-- Center Diff Bracket ASSY&#45;&gt;ISO 7089 &#45; 3 &#45; 140 HV(1) -->
+<g id="edge39" class="edge" data-name="Center Diff Bracket ASSY-&gt;ISO 7089 - 3 - 140 HV(1)">
+
+<path fill="none" stroke="black" d="M383.53,-835.12C319.35,-850.77 227.73,-875.7 169.79,-893.38"/>
+<polygon fill="black" stroke="black" points="169,-889.96 160.47,-896.26 171.06,-896.65 169,-889.96"/>
+</g>
+<!-- Center Diff Bracket ASSY&#45;&gt;ISO 7089 &#45; 3 &#45; 140 HV(1) -->
+<g id="edge40" class="edge" data-name="Center Diff Bracket ASSY-&gt;ISO 7089 - 3 - 140 HV(1)">
+
+<path fill="none" stroke="black" d="M412.61,-838.04C358.57,-854.92 266.36,-880.22 198.85,-896.95"/>
+<polygon fill="black" stroke="black" points="198.16,-893.51 189.28,-899.3 199.83,-900.31 198.16,-893.51"/>
+</g>
+<!-- ISO 7380 &#45; M3 x 12 -->
+<g id="node32" class="node" pointer-events="visible" data-name="ISO 7380 - M3 x 12">
+
+<ellipse fill="none" stroke="black" cx="755.19" cy="-876.04" rx="89.2" ry="18"/>
+<text text-anchor="middle" x="755.19" y="-871.84" font-family="Times,serif" font-size="14.00">ISO 7380 - M3 x 12</text>
+</g>
+<!-- Center Diff Bracket ASSY&#45;&gt;ISO 7380 &#45; M3 x 12 -->
+<g id="edge41" class="edge" data-name="Center Diff Bracket ASSY-&gt;ISO 7380 - M3 x 12">
+
+<path fill="none" stroke="black" d="M513.99,-837.09C556.53,-846.36 615.58,-857.52 664.6,-865.68"/>
+<polygon fill="black" stroke="black" points="663.94,-869.11 674.37,-867.28 665.07,-862.21 663.94,-869.11"/>
+</g>
+<!-- Center Diff Bracket ASSY&#45;&gt;ISO 7380 &#45; M3 x 12 -->
+<g id="edge42" class="edge" data-name="Center Diff Bracket ASSY-&gt;ISO 7380 - M3 x 12">
+
+<path fill="none" stroke="black" d="M550.15,-831.81C596.35,-839.54 650.96,-849.83 692.2,-858.66"/>
+<polygon fill="black" stroke="black" points="691.2,-862.03 701.72,-860.73 692.69,-855.19 691.2,-862.03"/>
+</g>
+<!-- Center Slipper Main Shaft -->
+<g id="node6" class="node" pointer-events="visible" data-name="Center Slipper Main Shaft">
+
+<ellipse fill="none" stroke="black" cx="291.89" cy="-272.7" rx="112.87" ry="18"/>
+<text text-anchor="middle" x="291.89" y="-268.5" font-family="Times,serif" font-size="14.00">Center Slipper Main Shaft</text>
+</g>
+<!-- Center Slipper ASSY&#45;&gt;Center Slipper Main Shaft -->
+<g id="edge5" class="edge" data-name="Center Slipper ASSY-&gt;Center Slipper Main Shaft">
+
+<path fill="none" stroke="black" d="M549.4,-326.32C498.49,-315.72 427.32,-300.9 372.7,-289.53"/>
+<polygon fill="black" stroke="black" points="373.64,-286.15 363.14,-287.54 372.21,-293 373.64,-286.15"/>
+</g>
+<!-- 6700H&#45;2RS 10 x 15 x 4mm Bearing -->
+<g id="node7" class="node" pointer-events="visible" data-name="6700H-2RS 10 x 15 x 4mm Bearing">
+
+<ellipse fill="none" stroke="black" cx="923.81" cy="-532.28" rx="151.12" ry="18"/>
+<text text-anchor="middle" x="923.81" y="-528.08" font-family="Times,serif" font-size="14.00">6700H-2RS 10 x 15 x 4mm Bearing</text>
+</g>
+<!-- Center Slipper ASSY&#45;&gt;6700H&#45;2RS 10 x 15 x 4mm Bearing -->
+<g id="edge6" class="edge" data-name="Center Slipper ASSY-&gt;6700H-2RS 10 x 15 x 4mm Bearing">
+
+<path fill="none" stroke="black" d="M635.52,-357.49C685.04,-392.46 808.77,-469.82 876.96,-508.91"/>
+<polygon fill="black" stroke="black" points="874.86,-511.75 885.28,-513.65 878.32,-505.66 874.86,-511.75"/>
+</g>
+<!-- Center Slipper ASSY&#45;&gt;6700H&#45;2RS 10 x 15 x 4mm Bearing -->
+<g id="edge22" class="edge" data-name="Center Slipper ASSY-&gt;6700H-2RS 10 x 15 x 4mm Bearing">
+
+<path fill="none" stroke="black" d="M649.98,-356.87C711.06,-391.14 834.4,-467.81 892.39,-507.56"/>
+<polygon fill="black" stroke="black" points="890.32,-510.38 900.53,-513.21 894.31,-504.63 890.32,-510.38"/>
+</g>
+<!-- Center Slipper Pin -->
+<g id="node8" class="node" pointer-events="visible" data-name="Center Slipper Pin">
+
+<ellipse fill="none" stroke="black" cx="723.66" cy="-43.25" rx="82.27" ry="18"/>
+<text text-anchor="middle" x="723.66" y="-39.05" font-family="Times,serif" font-size="14.00">Center Slipper Pin</text>
+</g>
+<!-- Center Slipper ASSY&#45;&gt;Center Slipper Pin -->
+<g id="edge7" class="edge" data-name="Center Slipper ASSY-&gt;Center Slipper Pin">
+
+<path fill="none" stroke="black" d="M624.76,-321.59C647.46,-271.78 698.79,-133.2 717.3,-72.43"/>
+<polygon fill="black" stroke="black" points="720.57,-73.72 720.03,-63.14 713.86,-71.75 720.57,-73.72"/>
+</g>
+<!-- Center Slipper ASSY&#45;&gt;Center Slipper Pin -->
+<g id="edge15" class="edge" data-name="Center Slipper ASSY-&gt;Center Slipper Pin">
+
+<path fill="none" stroke="black" d="M617.43,-321.42C631.46,-271.33 682.42,-132.35 708.52,-71.91"/>
+<polygon fill="black" stroke="black" points="711.64,-73.53 712.48,-62.97 705.24,-70.69 711.64,-73.53"/>
+</g>
+<!-- Center Slipper Main Disk -->
+<g id="node9" class="node" pointer-events="visible" data-name="Center Slipper Main Disk">
+
+<ellipse fill="none" stroke="black" cx="894.17" cy="-139.29" rx="110.59" ry="18"/>
+<text text-anchor="middle" x="894.17" y="-135.09" font-family="Times,serif" font-size="14.00">Center Slipper Main Disk</text>
+</g>
+<!-- Center Slipper ASSY&#45;&gt;Center Slipper Main Disk -->
+<g id="edge8" class="edge" data-name="Center Slipper ASSY-&gt;Center Slipper Main Disk">
+
+<path fill="none" stroke="black" d="M639.09,-322.02C689.3,-286.05 802.95,-204.64 860.07,-163.72"/>
+<polygon fill="black" stroke="black" points="862.07,-166.6 868.16,-157.93 857.99,-160.91 862.07,-166.6"/>
+</g>
+<!-- Slipper Pad -->
+<g id="node10" class="node" pointer-events="visible" data-name="Slipper Pad">
+
+<ellipse fill="none" stroke="black" cx="588.91" cy="-98.33" rx="55.66" ry="18"/>
+<text text-anchor="middle" x="588.91" y="-94.13" font-family="Times,serif" font-size="14.00">Slipper Pad</text>
+</g>
+<!-- Center Slipper ASSY&#45;&gt;Slipper Pad -->
+<g id="edge9" class="edge" data-name="Center Slipper ASSY-&gt;Slipper Pad">
+
+<path fill="none" stroke="black" d="M619.79,-321.68C622.91,-280.15 612.82,-177.94 601.31,-127.47"/>
+<polygon fill="black" stroke="black" points="604.73,-126.7 598.89,-117.86 597.94,-128.41 604.73,-126.7"/>
+</g>
+<!-- Center Slipper ASSY&#45;&gt;Slipper Pad -->
+<g id="edge11" class="edge" data-name="Center Slipper ASSY-&gt;Slipper Pad">
+
+<path fill="none" stroke="black" d="M604.61,-321.67C593,-280.31 581.86,-178.77 582.86,-128.09"/>
+<polygon fill="black" stroke="black" points="586.35,-128.31 583.29,-118.17 579.36,-128.01 586.35,-128.31"/>
+</g>
+<!-- Center Slipper ASSY&#45;&gt;Slipper Pad -->
+<g id="edge13" class="edge" data-name="Center Slipper ASSY-&gt;Slipper Pad">
+
+<path fill="none" stroke="black" d="M612.34,-321.67C608,-280.32 597.36,-178.81 592.04,-128.13"/>
+<polygon fill="black" stroke="black" points="595.52,-127.78 591,-118.2 588.56,-128.51 595.52,-127.78"/>
+</g>
+<!-- Spur Gear (78 teeth) -->
+<g id="node11" class="node" pointer-events="visible" data-name="Spur Gear (78 teeth)">
+
+<ellipse fill="none" stroke="black" cx="631.81" cy="-388.43" rx="90.28" ry="18"/>
+<text text-anchor="middle" x="631.81" y="-384.23" font-family="Times,serif" font-size="14.00">Spur Gear (78 teeth)</text>
+</g>
+<!-- Center Slipper ASSY&#45;&gt;Spur Gear (78 teeth) -->
+<g id="edge10" class="edge" data-name="Center Slipper ASSY-&gt;Spur Gear (78 teeth)">
+
+<path fill="none" stroke="black" d="M620.88,-358.19C621.02,-358.56 621.15,-358.92 621.28,-359.29"/>
+<polygon fill="black" stroke="black" points="617.95,-360.39 624.64,-368.6 624.54,-358.01 617.95,-360.39"/>
+</g>
+<!-- Center Slipper Mid Disk -->
+<g id="node12" class="node" pointer-events="visible" data-name="Center Slipper Mid Disk">
+
+<ellipse fill="none" stroke="black" cx="901.45" cy="-229.94" rx="106.02" ry="18"/>
+<text text-anchor="middle" x="901.45" y="-225.74" font-family="Times,serif" font-size="14.00">Center Slipper Mid Disk</text>
+</g>
+<!-- Center Slipper ASSY&#45;&gt;Center Slipper Mid Disk -->
+<g id="edge12" class="edge" data-name="Center Slipper ASSY-&gt;Center Slipper Mid Disk">
+
+<path fill="none" stroke="black" d="M657.24,-323.37C707.86,-304 791.98,-271.82 847.07,-250.74"/>
+<polygon fill="black" stroke="black" points="848.19,-254.06 856.27,-247.22 845.68,-247.52 848.19,-254.06"/>
+</g>
+<!-- Center Slipper Front Disk -->
+<g id="node13" class="node" pointer-events="visible" data-name="Center Slipper Front Disk">
+
+<ellipse fill="none" stroke="black" cx="913.87" cy="-412.97" rx="111.17" ry="18"/>
+<text text-anchor="middle" x="913.87" y="-408.77" font-family="Times,serif" font-size="14.00">Center Slipper Front Disk</text>
+</g>
+<!-- Center Slipper ASSY&#45;&gt;Center Slipper Front Disk -->
+<g id="edge14" class="edge" data-name="Center Slipper ASSY-&gt;Center Slipper Front Disk">
+
+<path fill="none" stroke="black" d="M673.44,-354.27C721.27,-365.95 788.83,-382.44 840.16,-394.98"/>
+<polygon fill="black" stroke="black" points="839.17,-398.34 849.71,-397.31 840.83,-391.54 839.17,-398.34"/>
+</g>
+<!-- Center Slipper Spring -->
+<g id="node14" class="node" pointer-events="visible" data-name="Center Slipper Spring">
+
+<ellipse fill="none" stroke="black" cx="806.13" cy="-89.95" rx="95.01" ry="18"/>
+<text text-anchor="middle" x="806.13" y="-85.75" font-family="Times,serif" font-size="14.00">Center Slipper Spring</text>
+</g>
+<!-- Center Slipper ASSY&#45;&gt;Center Slipper Spring -->
+<g id="edge16" class="edge" data-name="Center Slipper ASSY-&gt;Center Slipper Spring">
+
+<path fill="none" stroke="black" d="M628.04,-321.85C661.29,-278.55 745.99,-168.26 785.39,-116.96"/>
+<polygon fill="black" stroke="black" points="787.96,-119.36 791.27,-109.29 782.41,-115.09 787.96,-119.36"/>
+</g>
+<!-- Center Slipper Adjuster Nut -->
+<g id="node15" class="node" pointer-events="visible" data-name="Center Slipper Adjuster Nut">
+
+<ellipse fill="none" stroke="black" cx="327.03" cy="-138.67" rx="119.82" ry="18"/>
+<text text-anchor="middle" x="327.03" y="-134.47" font-family="Times,serif" font-size="14.00">Center Slipper Adjuster Nut</text>
+</g>
+<!-- Center Slipper ASSY&#45;&gt;Center Slipper Adjuster Nut -->
+<g id="edge17" class="edge" data-name="Center Slipper ASSY-&gt;Center Slipper Adjuster Nut">
+
+<path fill="none" stroke="black" d="M589.01,-322.14C537.53,-286.09 420.34,-204.01 361.74,-162.97"/>
+<polygon fill="black" stroke="black" points="363.96,-160.26 353.76,-157.39 359.94,-165.99 363.96,-160.26"/>
+</g>
+<!-- Set Screw &#45; Cone Tip &#45; &#160;M3 x 3 -->
+<g id="node16" class="node" pointer-events="visible" data-name="Set Screw - Cone Tip -  M3 x 3">
+
+<ellipse fill="none" stroke="black" cx="973.79" cy="-305.58" rx="132.57" ry="18"/>
+<text text-anchor="middle" x="973.79" y="-301.38" font-family="Times,serif" font-size="14.00">Set Screw - Cone Tip -  M3 x 3</text>
+</g>
+<!-- Center Slipper ASSY&#45;&gt;Set Screw &#45; Cone Tip &#45; &#160;M3 x 3 -->
+<g id="edge18" class="edge" data-name="Center Slipper ASSY-&gt;Set Screw - Cone Tip -  M3 x 3">
+
+<path fill="none" stroke="black" d="M699.45,-331.7C745.3,-327.34 802.63,-321.88 853.01,-317.08"/>
+<polygon fill="black" stroke="black" points="853.18,-320.58 862.8,-316.15 852.52,-313.61 853.18,-320.58"/>
+</g>
+<!-- Center Slipper Outdrive Pin -->
+<g id="node17" class="node" pointer-events="visible" data-name="Center Slipper Outdrive Pin">
+
+<ellipse fill="none" stroke="black" cx="697.8" cy="-294.74" rx="119.25" ry="18"/>
+<text text-anchor="middle" x="697.8" y="-290.54" font-family="Times,serif" font-size="14.00">Center Slipper Outdrive Pin</text>
+</g>
+<!-- Center Slipper ASSY&#45;&gt;Center Slipper Outdrive Pin -->
+<g id="edge19" class="edge" data-name="Center Slipper ASSY-&gt;Center Slipper Outdrive Pin">
+
+<path fill="none" stroke="black" d="M646.31,-322.52C649.16,-320.98 652.07,-319.41 654.98,-317.83"/>
+<polygon fill="black" stroke="black" points="656.38,-321.06 663.52,-313.23 653.05,-314.9 656.38,-321.06"/>
+</g>
+<!-- Center Slipper Outdrive -->
+<g id="node18" class="node" pointer-events="visible" data-name="Center Slipper Outdrive">
+
+<ellipse fill="none" stroke="black" cx="419.14" cy="-69.81" rx="103.66" ry="18"/>
+<text text-anchor="middle" x="419.14" y="-65.61" font-family="Times,serif" font-size="14.00">Center Slipper Outdrive</text>
+</g>
+<!-- Center Slipper ASSY&#45;&gt;Center Slipper Outdrive -->
+<g id="edge20" class="edge" data-name="Center Slipper ASSY-&gt;Center Slipper Outdrive">
+
+<path fill="none" stroke="black" d="M601.14,-321.68C567.61,-275.28 478.55,-152.04 438.79,-97.01"/>
+<polygon fill="black" stroke="black" points="441.76,-95.15 433.07,-89.09 436.09,-99.25 441.76,-95.15"/>
+</g>
+<!-- ISO 7380 &#45; M3 x 6 -->
+<g id="node19" class="node" pointer-events="visible" data-name="ISO 7380 - M3 x 6">
+
+<ellipse fill="none" stroke="black" cx="544.74" cy="-18.22" rx="84.04" ry="18"/>
+<text text-anchor="middle" x="544.74" y="-14.02" font-family="Times,serif" font-size="14.00">ISO 7380 - M3 x 6</text>
+</g>
+<!-- Center Slipper ASSY&#45;&gt;ISO 7380 &#45; M3 x 6 -->
+<g id="edge21" class="edge" data-name="Center Slipper ASSY-&gt;ISO 7380 - M3 x 6">
+
+<path fill="none" stroke="black" d="M610.31,-321.6C598.82,-268.44 565.25,-113.1 551.12,-47.74"/>
+<polygon fill="black" stroke="black" points="554.57,-47.14 549.04,-38.11 547.73,-48.62 554.57,-47.14"/>
+</g>
+<!-- Motor Mount -->
+<g id="node23" class="node" pointer-events="visible" data-name="Motor Mount">
+
+<ellipse fill="none" stroke="black" cx="287.34" cy="-1340.51" rx="63.2" ry="18"/>
+<text text-anchor="middle" x="287.34" y="-1336.31" font-family="Times,serif" font-size="14.00">Motor Mount</text>
+</g>
+<!-- Motor&#45;&gt;Motor Mount -->
+<g id="edge30" class="edge" data-name="Motor-&gt;Motor Mount">
+
+<path fill="none" stroke="black" d="M430.86,-1246.9C403.17,-1264.96 355.24,-1296.22 322.45,-1317.61"/>
+<polygon fill="black" stroke="black" points="320.95,-1314.41 314.49,-1322.8 324.78,-1320.27 320.95,-1314.41"/>
+</g>
+<!-- 540 Brushless Motor -->
+<g id="node24" class="node" pointer-events="visible" data-name="540 Brushless Motor">
+
+<ellipse fill="none" stroke="black" cx="315.23" cy="-1512.92" rx="92.1" ry="18"/>
+<text text-anchor="middle" x="315.23" y="-1508.72" font-family="Times,serif" font-size="14.00">540 Brushless Motor</text>
+</g>
+<!-- Motor&#45;&gt;540 Brushless Motor -->
+<g id="edge31" class="edge" data-name="Motor-&gt;540 Brushless Motor">
+
+<path fill="none" stroke="black" d="M444.22,-1250.11C421.12,-1297.18 357.57,-1426.65 329.21,-1484.43"/>
+<polygon fill="black" stroke="black" points="326.12,-1482.79 324.86,-1493.31 332.41,-1485.87 326.12,-1482.79"/>
+</g>
+<!-- ISO10642&#45;M3x10 -->
+<g id="node27" class="node" pointer-events="visible" data-name="ISO10642-M3x10">
+
+<ellipse fill="none" stroke="black" cx="441.24" cy="-1453.42" rx="81.71" ry="18"/>
+<text text-anchor="middle" x="441.24" y="-1449.22" font-family="Times,serif" font-size="14.00">ISO10642-M3x10</text>
+</g>
+<!-- Motor&#45;&gt;ISO10642&#45;M3x10 -->
+<g id="edge34" class="edge" data-name="Motor-&gt;ISO10642-M3x10">
+
+<path fill="none" stroke="black" d="M447.92,-1250.81C442.48,-1288.89 437.57,-1377.13 438.02,-1423.58"/>
+<polygon fill="black" stroke="black" points="434.52,-1423.54 438.24,-1433.46 441.52,-1423.38 434.52,-1423.54"/>
+</g>
+<!-- Motor&#45;&gt;ISO10642&#45;M3x10 -->
+<g id="edge35" class="edge" data-name="Motor-&gt;ISO10642-M3x10">
+
+<path fill="none" stroke="black" d="M455.79,-1250.85C457.25,-1288.95 452.92,-1377.17 447.62,-1423.61"/>
+<polygon fill="black" stroke="black" points="444.15,-1423.13 446.37,-1433.49 451.1,-1424.01 444.15,-1423.13"/>
+</g>
+<!-- 22 T Pinion -->
+<g id="node28" class="node" pointer-events="visible" data-name="22 T Pinion">
+
+<ellipse fill="none" stroke="black" cx="590.76" cy="-1426.74" rx="56.79" ry="18"/>
+<text text-anchor="middle" x="590.76" y="-1422.54" font-family="Times,serif" font-size="14.00">22 T Pinion</text>
+</g>
+<!-- Motor&#45;&gt;22 T Pinion -->
+<g id="edge36" class="edge" data-name="Motor-&gt;22 T Pinion">
+
+<path fill="none" stroke="black" d="M465.07,-1249.8C489.13,-1283.67 542.74,-1359.14 571.56,-1399.7"/>
+<polygon fill="black" stroke="black" points="568.63,-1401.63 577.27,-1407.75 574.33,-1397.57 568.63,-1401.63"/>
+</g>
+<!-- ISO 4026 &#45; M2.5 x 3ISO -->
+<g id="node30" class="node" pointer-events="visible" data-name="ISO 4026 - M2.5 x 3ISO">
+
+<ellipse fill="none" stroke="black" cx="678.98" cy="-1344.05" rx="107.15" ry="18"/>
+<text text-anchor="middle" x="678.98" y="-1339.85" font-family="Times,serif" font-size="14.00">ISO 4026 - M2.5 x 3ISO</text>
+</g>
+<!-- Motor&#45;&gt;ISO 4026 &#45; M2.5 x 3ISO -->
+<g id="edge38" class="edge" data-name="Motor-&gt;ISO 4026 - M2.5 x 3ISO">
+
+<path fill="none" stroke="black" d="M478.33,-1245.14C515.92,-1263.67 586.77,-1298.6 633.43,-1321.59"/>
+<polygon fill="black" stroke="black" points="631.7,-1324.64 642.22,-1325.92 634.79,-1318.36 631.7,-1324.64"/>
+</g>
+<!-- Can:1 -->
+<g id="node25" class="node" pointer-events="visible" data-name="Can:1">
+
+<ellipse fill="none" stroke="black" cx="156.01" cy="-1681.87" rx="34.21" ry="18"/>
+<text text-anchor="middle" x="156.01" y="-1677.67" font-family="Times,serif" font-size="14.00">Can:1</text>
+</g>
+<!-- 540 Brushless Motor&#45;&gt;Can:1 -->
+<g id="edge32" class="edge" data-name="540 Brushless Motor-&gt;Can:1">
+
+<path fill="none" stroke="black" d="M298.19,-1531C269.5,-1561.45 211.5,-1622.98 179.15,-1657.31"/>
+<polygon fill="black" stroke="black" points="176.86,-1654.64 172.55,-1664.32 181.96,-1659.44 176.86,-1654.64"/>
+</g>
+<!-- Shaft:1 -->
+<g id="node26" class="node" pointer-events="visible" data-name="Shaft:1">
+
+<ellipse fill="none" stroke="black" cx="284.27" cy="-1749.41" rx="38.86" ry="18"/>
+<text text-anchor="middle" x="284.27" y="-1745.21" font-family="Times,serif" font-size="14.00">Shaft:1</text>
+</g>
+<!-- 540 Brushless Motor&#45;&gt;Shaft:1 -->
+<g id="edge33" class="edge" data-name="540 Brushless Motor-&gt;Shaft:1">
+
+<path fill="none" stroke="black" d="M312.85,-1531.08C307.53,-1571.75 294.61,-1670.43 288.12,-1719.99"/>
+<polygon fill="black" stroke="black" points="284.68,-1719.31 286.85,-1729.68 291.62,-1720.22 284.68,-1719.31"/>
+</g>
+<!-- Spur Gear (22 -->
+<g id="node29" class="node" pointer-events="visible" data-name="Spur Gear (22">
+
+<ellipse fill="none" stroke="black" cx="720.93" cy="-1614.95" rx="65.99" ry="18"/>
+<text text-anchor="middle" x="720.93" y="-1610.75" font-family="Times,serif" font-size="14.00">Spur Gear (22</text>
+</g>
+<!-- 22 T Pinion&#45;&gt;Spur Gear (22 -->
+<g id="edge37" class="edge" data-name="22 T Pinion-&gt;Spur Gear (22">
+
+<path fill="none" stroke="black" d="M603.24,-1444.78C626.13,-1477.88 674.94,-1548.46 701.96,-1587.52"/>
+<polygon fill="black" stroke="black" points="699.06,-1589.48 707.63,-1595.71 704.82,-1585.5 699.06,-1589.48"/>
+</g>
+</g>
+</svg>
