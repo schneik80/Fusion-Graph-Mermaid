@@ -1,11 +1,9 @@
 # Author - Kevin S
 # Description - Export an assembly as a mermaid graph
 
-import os
-import adsk.core
-import adsk.fusion
+import os, subprocess
+import adsk.core, adsk.fusion
 import traceback
-import re
 
 # Performs a recursive traversal of an entire assembly structure.
 
@@ -33,6 +31,15 @@ def traverseAssembly(parent, occurrences, currentLevel, inputString):
                 occ.name, occ.childOccurrences, currentLevel + 1, inputString
             )
     return inputString
+
+
+# Returns a string containing the specified number of spaces.
+def spaces(spaceCount):
+    result = ""
+    for i in range(0, spaceCount):
+        result += " "
+
+    return result
 
 
 def run(context):
@@ -69,13 +76,27 @@ def run(context):
         dlgResult = folderDlg.showDialog()
         if dlgResult == adsk.core.DialogResults.DialogOK:
             filepath = os.path.join(folderDlg.folder, parentOcc + ".mmd")
+            #imagepath = os.path.join(folderDlg.folder, parentOcc + ".png")  # path needed for image export
+
             # Write the results to the file
             with open(filepath, "w") as f:
                 f.write(resultString)
-            ui.messageBox("Graph saved at: " + filepath)
+
+            # Unable to get calling mmdc from command line
+            # #command = f'/usr/local/bin/mmdc -i "{filepath}" -o "{imagepath}"'
+            # print(command)
+            # subprocess.run(
+            #     [command],
+            #     shell=True,
+            #     capture_output=True
+            #     )
+
+            ui.messageBox("Graph and PNG Image saved at: " + filepath, "Graph Saved", 0, 2 )
+
         else:
             return
 
     except:
         if ui:
             ui.messageBox("Failed:\n{}".format(traceback.format_exc()))
+
